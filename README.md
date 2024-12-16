@@ -22,8 +22,8 @@
 To declare a variable in the language we use `var.save`
 Example:
 
-```c#
-var.save date = ""12/16/2024
+```C#
+var.save date = "12/16/2024"
 ```
 
 ## Update Fixes
