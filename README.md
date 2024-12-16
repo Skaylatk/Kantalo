@@ -14,6 +14,18 @@
 6. To run your code type `node klo.js <main.klo>`
 
 ---
+
+# Documentation
+
+## declare variables
+
+To declare a variable in the language we use `var.save`
+Example:
+
+```c#
+var.save date = ""12/16/2024
+```
+
 ## Update Fixes
 
 > *V0.0.1-beta.2* -  _Bugs in the code, and the correction of var.create_
