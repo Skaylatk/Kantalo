@@ -1,1 +1,2 @@
 *.klo linguist-language=Kantalo
+*.md linguist-documentation=true
