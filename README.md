@@ -22,7 +22,7 @@
 To declare a variable in the language we use `var.save`
 Example:
 
-```C#
+```js
 var.save date = "12/16/2024"
 ```
 
