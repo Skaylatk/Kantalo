@@ -26,6 +26,8 @@ Example:
 var.save date = "12/16/2024"
 ```
 
+---
+
 # Update Fixes
 
 > *V0.0.1-beta.2* -  _Bugs in the code, and the correction of var.create_
