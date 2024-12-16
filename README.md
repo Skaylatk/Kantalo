@@ -4,7 +4,7 @@
 
 ---
 
-## How to use? 🤔
+# How to use? 🤔
 
 1. Install [node.js](https://nodejs.org/) on your system along with [git](https://git-scm.com/downloads)
 2. Type `git clone https://github.com/skaylatk/kantalo`
@@ -26,12 +26,12 @@ Example:
 var.save date = "12/16/2024"
 ```
 
-## Update Fixes
+# Update Fixes
 
 > *V0.0.1-beta.2* -  _Bugs in the code, and the correction of var.create_
 
 ---
-## Links
+# Links
 
 - [Documentation](https://kantalo.kesug.com/?i=1)
 - [Vscode extension](https://marketplace.visualstudio.com/items?itemName=Skaylatk.kantalo)
