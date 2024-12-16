@@ -26,6 +26,8 @@ Example:
 var.save date = "12/16/2024"
 ```
 
+[WARNING] var.save only accepts text strings, not integers.
+
 ---
 
 # Update Fixes
