@@ -35,6 +35,8 @@ to send text to the console, we use `terminal.text`
 Example:
 ```js
 terminal.text("Hello world")
+
+## for variable calls we use -**-
 ```
 
 ---
