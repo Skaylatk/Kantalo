@@ -30,6 +30,9 @@ var.save date = "12/16/2024"
 
 ---
 
+## Using messages in the console
+to send text to the console, we use `terminal.text`
+
 # Update Fixes
 
 > *V0.0.1-beta.2* -  _Bugs in the code, and the correction of var.create_
