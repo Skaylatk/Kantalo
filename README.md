@@ -37,7 +37,9 @@ Example:
 terminal.text("Hello world")
 
 ## for variable calls we use -**-
- // Ex
+// Ex:
+var.save name = "Maria"
+terminal.text("Hello -*name*-")
 ```
 
 ---
