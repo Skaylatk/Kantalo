@@ -32,6 +32,11 @@ var.save date = "12/16/2024"
 ## Using messages in the console
 to send text to the console, we use `terminal.text`
 
+Example:
+```js
+terminal.text("Hello world")
+```
+
 ---
 # Update Fixes
 
