@@ -33,7 +33,7 @@ var.save date = "12/16/2024"
 to send text to the console, we use `terminal.text`
 
 Example:
-```js
+```kantalo
 terminal.text("Hello world")
 
 ## for variable calls we use -**-
